@@ -1,6 +1,12 @@
 #EXTINF:-1 group-title="УКРАИНА",Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
 
+#EXTINF:-1 group-title="УКРАИНА",НТВ
+https://s87.glaz.tv:8082/liveg/ntv.stream/chunks.m3u8?nimblesessionid=409628199&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMyAxOjQ5OjEyIEFNJmhhc2hfdmFsdWU9ZlkyWHRVbFFpWXJEdXcyWnhObEdJUT09JnZhbGlkbWludXRlcz0yMDA=
+#EXTINF:-1 group-title="УКРАИНА",ПятыйКанал
+https://s87.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=409628205&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMyAxOjQ5OjA4IEFNJmhhc2hfdmFsdWU9L2Q3dVp3bk4xbWpvOVJRQWdMVzNJZz09JnZhbGlkbWludXRlcz0yMDA=
+
+
 
 #EXTINF:-1 group-title="УКРАИНА",Белсат HD
 http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
